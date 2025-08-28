@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Md Kibria</h1>
 <h3 align="center">web developer</h3>
 
-- 🌱 I’m currently learning ** Programming & Web Development**
+<!-- - 🌱 I’m currently learning ** Programming & Web Development** -->
 
 - 💬 Ask me about **react, next, laravel, nodejs**
 
