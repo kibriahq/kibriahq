@@ -70,11 +70,11 @@
     </a> 
     -->   
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=md-kibria&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=kibriahq&show_icons=true&locale=en&layout=compact"
         alt="md-kibria" /></p>
 
 <p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=md-kibria&show_icons=true&locale=en" alt="md-kibria" />
+        src="https://github-readme-stats.vercel.app/api?username=kibriahq&show_icons=true&locale=en" alt="md-kibria" />
 </p>
 
 <!-- 
