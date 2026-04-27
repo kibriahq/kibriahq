@@ -53,7 +53,7 @@
 </div>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -63,14 +63,14 @@
 
 </div>
 
-<br/>
+<br/> -->
 
 <div align="center">
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kibriahq&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
-
+<!--
 ---
 
 ### 📬 Connect With Me
@@ -82,7 +82,7 @@
 
 </div>
 
-<br/>
+<br/> -->
 
 <div align="center">
 
