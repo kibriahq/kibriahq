@@ -70,19 +70,19 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kibriahq&theme=tokyonight&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 </div>
-<!--
----
 
-### 📬 Connect With Me
+<!-- --- -->
+
+<!-- ### 📬 Connect With Me
 
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdkibria.dev@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kibriahq)
 
-</div>
+</div> -->
 
-<br/> -->
+<!-- <br/> -->
 
 <div align="center">
 
